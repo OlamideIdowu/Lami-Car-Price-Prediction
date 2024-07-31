@@ -1,4 +1,4 @@
-# Vehicle Price Prediction
+# Car Price Prediction
 
 This project focuses on predicting vehicle prices using regression analysis. The dataset includes various features such as company name, model name, model year, location, engine type, color, assembly, body type, transmission type, registration status, mileage, engine capacity, and price.
 
